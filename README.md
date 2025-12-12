@@ -1,13 +1,18 @@
+<!-- Typing Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+I'm+Akash+Dora;Full-Stack+Developer;Cloud+%26+Mobile+App+Developer;React+Native+Enthusiast" />
+</p>
+
 <!-- Banner -->
 <h1 align="center">👋 Hey there! I'm <span style="color:#4CAF50;">Akash Dora</span></h1>
-<h3 align="center">🚀 Passionate Full-Stack & Cloud Developer</h3>
+<h3 align="center">🚀 Passionate Full-Stack, Cloud & Mobile App Developer</h3>
 
 ---
 
-### 🔥 About Me  
-- 🔭 Currently building **Cloud Storage Systems**  
-- 🌱 Learning **React.js & Modern Frontend Ecosystem**  
-- 💡 Love solving real-world problems with clean, scalable code  
+### 🔥 About Me
+- 🔭 Currently building **Cloud Storage Systems**
+- 🌱 Learning **React.js & React Native**
+- 💡 I love solving real-world problems with clean, scalable code
 - 🎯 Goal: Become a **Full-Stack Developer & Cloud Engineer**
 
 ---
@@ -18,44 +23,52 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/_.akashdora._" target="_blank">
+<a href="https://www.instagram.com/__.akashdora.__?igsh=YWZ3d2cwbG5tbTM2" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
-
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools
+#### 🚀 Frontend & Mobile
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,bootstrap,tailwind" /><br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,mysql,postgres,mongodb,firebase,gcp,opencv" /><br/>
-<img src="https://skillicons.dev/icons?i=postman,androidstudio,matlab,photoshop" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,vue,tailwind,bootstrap" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,firebase,gcp" />
+</p>
+
+#### 🔧 Other Tools & Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,opencv,postman,androidstudio,matlab,photoshop" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akash&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=akashdora&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdora&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-### 🚀 Contribution Streak  
+### 🚀 Contribution Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash&theme=tokyonight" height="200" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashdora&theme=tokyonight" height="200" />
 </p>
 
 ---
 
-### ✨ Fun GIF  
+### ✨ Attractive GIF
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://i.pinimg.com/originals/f5/33/5e/f5335e7b9dcd0f17df0ee06b8dd3d3e9.gif" width="450">
 </p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting My Profile!
 <p align="center">Feel free to explore my repositories and connect with me 😊</p>
