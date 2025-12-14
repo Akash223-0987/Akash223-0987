@@ -42,17 +42,6 @@
 
 ---
 
-### 🚀 Contribution Streak  
-<!-- Real-time contribution calendar (GitHub contributions heatmap) -->
-<!-- Real-time contribution activity graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashdora&theme=react-dark&area=true&hide_border=true)
-
-<img alt="GitHub Contribution Calendar" src="https://ghchart.rshah.org/akashdora" />
-
-
----
-
-
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
