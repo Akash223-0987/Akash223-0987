@@ -34,6 +34,17 @@
 
 ---
 
+## 📊 GitHub  Stats
+
+### 🔢 Total Contributions
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&count_private=true&hide=issues,prs)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Akash223-0987)
+
+---
+
+
 ### 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akash&show_icons=true&theme=tokyonight" height="160" />
