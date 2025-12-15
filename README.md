@@ -13,15 +13,17 @@
 ---
 
 ### 🌐 Connect With Me  
-<p>
-<a href="https://www.linkedin.com/in/d-akash-dora-b91b5b321" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/__.akashdora.__?igsh=YWZ3d2cwbG5tbTM2" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/d-akash-dora-b91b5b321" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/__.akashdora.__?igsh=YWZ3d2cwbG5tbTM2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</div>
+
 
 ---
 
@@ -32,15 +34,6 @@
 <img src="https://skillicons.dev/icons?i=postman,androidstudio,matlab,photoshop" />
 </p>
 
----
-
-## 📊 GitHub  Stats
-
-### 🔢 Total Contributions
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&count_private=true&hide=issues,prs)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash223-0987)
 
 ---
 
