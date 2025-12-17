@@ -28,7 +28,7 @@
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="Centre">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,bootstrap,tailwind" /><br/>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,mysql,postgres,mongodb,firebase,gcp,opencv" /><br/>
 <img src="https://skillicons.dev/icons?i=postman,androidstudio,matlab,photoshop" />
