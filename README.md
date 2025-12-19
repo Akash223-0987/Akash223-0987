@@ -8,7 +8,7 @@
 - 🔭 Currently building **Cloud Storage Systems**  
 - 🌱 Learning **React.js & Modern Frontend Ecosystem**  
 - 💡 Love solving real-world problems with clean, scalable code  
-- 🎯 Goal: Become a **Full-Stack Developer & Cloud Engineer**
+- 🎯 Goal: Become a **Full-Stack Developer **
 
 ---
 
