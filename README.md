@@ -1,11 +1,11 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey there! I'm <span style="color:#4CAF50;">Akash Dora</span></h1>
-<h3 align="center">🚀 Passionate Full-Stack & Cloud Developer</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer</h3>
 
 ---
 
 ### 🔥 About Me  
-- 🔭 Currently building **Cloud Storage Systems**  
+- 🔭 Currently building **Chat Apps** using Socket.io
 - 🌱 Learning **React.js & Modern Frontend Ecosystem**  
 - 💡 Love solving real-world problems with clean, scalable code  
 - 🎯 Goal: Become a **Full-Stack Developer **
