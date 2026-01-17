@@ -8,7 +8,7 @@
 - 🔭 Currently building **Chat Apps** using Socket.io
 - 🌱 Learning **React.js & Modern Frontend Ecosystem**  
 - 💡 Love solving real-world problems with clean, scalable code  
-- 🎯 Goal: Become a **Full-Stack Developer **
+- 🎯 Goal: To Become a **Full-Stack Developer **
 
 ---
 
