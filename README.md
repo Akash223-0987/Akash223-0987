@@ -32,13 +32,44 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tech Stack
+
+#### 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,bootstrap,tailwind" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,mysql,postgres,mongodb,firebase,gcp,opencv" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postman,androidstudio,matlab,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
 </p>
+
+#### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,flask" />
+</p>
+
+#### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,gcp" />
+</p>
+
+#### 📊 Data Analytics & Machine Learning
+
+<p align="centre">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn" />
+</p>
+
+#### 🧠 Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+#### 🛠️ Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,androidstudio,matlab,photoshop,cpp,c" />
+</p>
+
 
 ---
 
