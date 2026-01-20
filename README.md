@@ -82,14 +82,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash223-0987&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
 ### 💻 Coding Vibes
 
 <p align="center">
