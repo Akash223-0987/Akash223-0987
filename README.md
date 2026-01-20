@@ -54,7 +54,7 @@
 
 #### 📊 Data Analytics & Machine Learning
 
-<p align="centre">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn" />
 </p>
 
