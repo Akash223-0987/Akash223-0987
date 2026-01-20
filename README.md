@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey there! I'm <span style="color:#4CAF50;">Akash Dora</span></h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer</h3>
+<h1 align="center">👋 Hey there! I'm <span style="color:#4CAF50;">D Akash Dora</span></h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer & Data Analyst</h3>
 
 ---
 
