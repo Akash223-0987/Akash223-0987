@@ -68,14 +68,25 @@
 
 <div align="center">
 
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,dart,js,ts" />
+</p>
+
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -99,7 +110,6 @@
 </div>
 
 <br/>
-
 <!-- ===================== GITHUB STATS WITH ANIMATIONS ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
@@ -149,15 +159,6 @@
 <!-- ===================== MEMES ===================== -->
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
-<br/>
-
-<!-- ===================== SPOTIFY ===================== -->
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nbbspxjkwtazetqxh6urdnsw3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 <br/>
