@@ -110,19 +110,34 @@
 </div>
 
 <br/>
-<!-- ===================== GITHUB STATS WITH ANIMATIONS ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash223-0987&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <!-- GitHub Stats -->
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+       alt="GitHub Stats"/>
+
+  <!-- Contribution Calendar (Native GitHub Data) -->
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash223-0987&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash223-0987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash223-0987&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+  <!-- Activity Graph -->
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Akash223-0987&theme=tokyo-night&hide_border=true&area=true"
+       alt="Contribution Graph"/>
+
 </div>
 
 <br/>
