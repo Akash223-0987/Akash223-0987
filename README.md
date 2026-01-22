@@ -117,13 +117,6 @@
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash223-0987&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 <!-- ===================== CONNECT WITH ME ===================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
 
@@ -137,7 +130,7 @@
   <a href="https://github.com/Akash223-0987" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="akashdora2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
   </a>
 </div>
@@ -172,7 +165,7 @@
 ## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Akash&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nbbspxjkwtazetqxh6urdnsw3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 <br/>
