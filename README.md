@@ -41,7 +41,7 @@
 
 🤝 **Open to:** Collaborations on innovative web projects
 
-📊 **Interests:** Web Development, Data Analytics, Machine Learning, API Design
+📊 **Interests:** Web Development, Data Analytics, Machine Learning
 
 🌍 **Location:** Amaravati, Andhra Pradesh, India 🇮🇳
 
