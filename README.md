@@ -19,13 +19,6 @@
 
 <br/>
 
-<!-- ===================== ANIMATED SNAKE ===================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
 <!-- ===================== ABOUT ME WITH ANIMATIONS ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
@@ -33,7 +26,7 @@
 
 <br/>
 
-🌱 **Currently Learning:** React.js, Modern Frontend Architecture & Best Practices
+🌱 **Currently Learning:** React.js, Modern Frontend Architecture alongside PowerBI
 
 💡 **Passionate About:** Solving real-world problems with clean, scalable code
 
@@ -100,6 +93,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
 
 ### 🛠️ Tools & IDEs
@@ -115,32 +110,24 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> GitHub Statistics
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-       alt="GitHub Stats"/>
-
-  <!-- Contribution Calendar (Native GitHub Data) -->
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash223-0987&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img
+    width="48%"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Akash223-0987&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    width="48%"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash223-0987&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
-<div align="center">
-
-  <!-- Activity Graph -->
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Akash223-0987&theme=tokyo-night&hide_border=true&area=true"
-       alt="Contribution Graph"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akash223-0987&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
